@@ -93,6 +93,15 @@
       "key": "R"
     }
   ],
+  "switcher:open": [],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
   "obsidian-kanban:toggle-kanban-view": [
     {
       "modifiers": [
@@ -100,6 +109,22 @@
         "Shift"
       ],
       "key": "X"
+    }
+  ],
+  "editor:table-col-after": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ],
+  "editor:table-row-after": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
     }
   ]
 }
