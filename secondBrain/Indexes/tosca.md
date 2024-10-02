@@ -1,7 +1,8 @@
 ---
-Creation_date: <% tp.file.creation_date() %>
-Modification_date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+Creation_date: 2024-08-22 17:38
+Modification_date: Thursday 22nd August 2024 17:38:22
 Indexes:
+  - "[[TOSCA - Home]]"
 ---
 
 

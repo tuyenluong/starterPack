@@ -111,20 +111,14 @@
       "key": "X"
     }
   ],
-  "editor:table-col-after": [
+  "switcher:open": [],
+  "omnisearch:show-modal": [
+
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "X"
-    }
-  ],
-  "editor:table-row-after": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
+      "key": "O"
     }
   ]
 }

@@ -20,7 +20,7 @@
 			* Add `run-` before the language to make it executable, and must pass the programming language path to the `Execute Code` plugin setting
 	* Ctrl + R = Start recording
 	* Ctrl + Shift + R = Stop *recording*
-	* Ctrl + Shift + X = Switch between markdown mode and Kanban mode
+	* Ctrl + X = Switch between markdown mode and Kanban mode
 	* Ctrl + L = Create a checkbox
 	* Ctrl + ; = Add property
 
