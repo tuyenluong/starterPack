@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f93b60505cd67b8",
+        "id": "3d36e4eeb702018d",
         "type": "tabs",
         "children": [
           {
-            "id": "8a8b3deb70cd8363",
+            "id": "85f47b82a07966a5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -39,7 +39,15 @@
             }
           },
           {
-            "id": "17842a7f6f061416",
+            "id": "b3cf842d5144a10c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "98f9ac5b5a622c73",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,16 +60,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "b3cf842d5144a10c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,31 +193,23 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "custom-sort:Toggle custom sorting": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-kanban:Create new board": false
-
+      "homepage:Open homepage": false
     }
   },
-  "active": "8a8b3deb70cd8363",
+  "active": "85f47b82a07966a5",
   "lastOpenFiles": [
-    "secondBrain/Indexes/tosca.md",
-    "secondBrain/Tosca/TOSCA - Action modes.md",
-    "secondBrain/Tosca/resources",
-    "secondBrain/Tosca/TOSCA - Home.md",
-    "secondBrain/Templates/Templates manage.md",
-    "secondBrain/Templates/Indexes - template.md",
-    "secondBrain/Templates/TOSCA - template.md",
-    "secondBrain/Tosca",
-    "secondBrain/Kanban-Task/Kanban_board.md",
     "secondBrain/Global Hotkeys.md",
+    "secondBrain/Templates/Templates manage.md",
     "secondBrain/Templates/sortspec.md",
-    "secondBrain/Indexes/learning.md",
+    "secondBrain/Templates/Indexes - template.md",
+    "Team Nox Process.png",
     "secondBrain/Indexes/Ideas.md",
     "secondBrain/Indexes/Interests.md",
     "secondBrain/Indexes/Home.md",
     "README.md",
+    "secondBrain/Kanban-Task/Kanban_board.md",
     "FRAMEWORK - template.md",
+    "secondBrain/Templates/ENG - template.md",
     "secondBrain/Templates/Untitled",
     "secondBrain/Indexes/testingFramework.md",
     "secondBrain/Indexes/verb.md",
@@ -229,6 +222,8 @@
     "secondBrain/Indexes/noun.md",
     "secondBrain/PV Automation.md",
     "secondBrain/data-structure-algo.md",
+    "secondBrain/English/List-of-words/ENG - differ.md",
+    "secondBrain/English/List-of-words/ENG - omit.md",
     "secondBrain/English/resources/Recording 20240504124527.webm",
     "secondBrain/English/List-of-words",
     "secondBrain/English/resources/Recording 20240504125210.webm",
@@ -247,7 +242,6 @@
     "secondBrain/Java/Operators/resources/Pasted image 20240310145103.png",
     "secondBrain/Java/Operators/resources/Pasted image 20240303141212.png",
     "secondBrain/Java/Operators/resources/Pasted image 20240303135756.png",
-    "secondBrain/Java/Operators/resources/Pasted image 20240303132231.png",
     "noteRepo/Framework/Selenium - Java framework.canvas"
   ]
 }
