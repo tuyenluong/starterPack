@@ -8,8 +8,7 @@
 	* Ctrl + Shift + Tab = Backward pages
 	* Ctrl + W = Close the current note
 * Searching
-	* Ctrl + O = Search for a file or keyword in a file
-	* Ctrl + Shift + F = Search for all files
+	* Ctrl + Shift + F = Search for a file or keyword in a file
 * Graph view
 	* Ctrl + G = Open Graph
 	* Ctrl + Shift + C  = Open Local Graph View
