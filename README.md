@@ -1,5 +1,3 @@
-# Tosca note
-
 To utilize all this space, please download [Obsidian](https://obsidian.md/) and learn how to use [Markdown syntax](https://www.markdownguide.org/basic-syntax/) first. 
 
 [Obsidian](https://obsidian.md/) mainly uses `.md` file due to its lightweight attribute and no-mouse mindset for anyone with a high typing rate per minute.
